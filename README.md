@@ -1,9 +1,7 @@
 # basic-html-css
 <style>
   .penguin {
-    /* Only change code below this line */
-
-    /* Only change code above this line */
+    
     position: relative;
     margin: auto;
     display: block;
